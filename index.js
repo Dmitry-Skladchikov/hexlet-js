@@ -1,4 +1,4 @@
-import _ from "lodash";
+import {_} from "./src/index.js";
 
 console.log("Hello, Hexlet!");
 
