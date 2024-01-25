@@ -1,4 +1,3 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-export { _ } ;
-
+export default { _ };
